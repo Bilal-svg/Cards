@@ -1,11 +1,11 @@
 # Cards
 
-**
+
 - Create Deck by entering values and suits.
 - Can shuffle Deck.
 - Can check if a card is present in deck or not.
 - Can distribute cards.
-**
+
 
 ## Installation
 
